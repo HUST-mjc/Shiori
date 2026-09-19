@@ -1,6 +1,6 @@
 // 加 html5:true 兼容 file:// 协议；如果你用本地服务器打开，也可以去掉这两行
 const sound1 = new Howl({
-  src: ["./video/haita.mp3"],
+  src: ["./video/Haita.mp3"],
   html5: true,
   preload: true,
 });
